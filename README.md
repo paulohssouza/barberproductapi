@@ -7,7 +7,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="imagem.png" alt="Exemplo imagem">
+<img src="image.jpg" alt="Exemplo imagem">
 
 > Aplicação para gerencimento de produtos e serviços de uma barbearia. (Application for managing products and services of a barbershop.).
 
